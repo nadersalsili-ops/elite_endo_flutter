@@ -30,4 +30,3 @@ jobs:
         with:
           name: elite-endo-app
           path: build/app/outputs/flutter-apk/app-release.apk
-.
